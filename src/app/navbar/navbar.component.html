@@ -1,0 +1,22 @@
+<nav class="navbar navbar-expand-md navbar-dark bg-primary">
+    <div class="container">
+      <a href="/" class="navbar-brand">Crea App</a>
+      <ul class="navbar-nav me-auto">
+        <li *ngIf="isAuthenticated" class="nav-item">
+          <a href="" class="nav-link active">Home</a>
+        </li>
+        <li *ngIf="isAuthenticated" class="nav-item">
+          <a routerLink="/products" class="nav-link" (click)="clearIds()">Products</a>
+        </li>
+      </ul>
+      <ul class="navbar-nav">
+        <li *ngIf="!isAuthenticated" class="nav-item">
+          <a  routerLink="/auth" *ngIf="!isAuthenticated" class="nav-link">Login</a>
+        </li>
+        <li *ngIf="isAuthenticated" class="nav-item">
+          <a (click)="onLogout()" class="nav-link">Logout</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  

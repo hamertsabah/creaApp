@@ -1,0 +1,68 @@
+.form-group input,
+.form-group textarea {
+    background-color: black;
+    border: 1px solid rgba(16, 46, 46, 1);
+    border-radius: 12px
+}
+form {
+    border: 1px solid rgba(16, 46, 46, 1);
+    background-color: rgba(16, 46, 46, 0.973);
+    border-radius: 5px;
+    padding: 20px
+}
+.comments {
+    margin-top: 5%;
+    margin-left: 20px
+}
+.darker {
+    border: 1px solid #ecb21f;
+    background-color: rgb(20, 20, 20);
+    float: right;
+    border-radius: 5px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-top: 10px
+}
+.comment {
+    border: 1px solid rgba(16, 46, 46, 1);
+    background-color: rgba(16, 46, 46, 0.973);
+    float: left;
+    border-radius: 5px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-top: 10px
+}
+.comment h4,
+.comment span,
+.darker h4,
+.darker span {
+    display: inline
+}
+.comment p,
+.comment span,
+.darker p,
+.darker span {
+    color: rgb(184, 183, 183)
+}
+h1,
+h4 {
+    color: gray;
+    font-weight: bold
+}
+label {
+    color: rgb(212, 208, 208)
+}
+#align-form {
+    margin-top: 20px
+}
+.form-group p a {
+    color: white
+}
+
+.span-star {
+    display: inline-block;
+    cursor: pointer;
+    line-height: 25px;
+    text-align: center;
+    width: 25px;
+}

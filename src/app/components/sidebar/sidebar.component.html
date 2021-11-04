@@ -1,0 +1,6 @@
+<div class="list-group">
+    <a *ngFor="let tool of tools" #rla="routerLinkActive" [routerLinkActiveOptions]="{exact:true}" 
+        routerLink="/{{tool.route}}" routerLinkActive="active">
+            {{tool.displayName}}
+    </a>
+</div>

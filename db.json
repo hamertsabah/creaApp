@@ -1,0 +1,361 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "username": "user",
+      "password": "user123"
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "which_prd_comment": 0,
+      "commented_by": "Ahmet",
+      "comment_text": "Lorem Ipsum Falan Filan nnice product.. good Choice..",
+      "comment_rate": 4,
+      "comment_date": "2015-11-11T00:00:00"
+    },
+    {
+      "id": 1,
+      "which_prd_comment": 0,
+      "commented_by": "Mehmet",
+      "comment_text": "Lorem Ipsum Falan Filan nnice product.. good Choice..",
+      "comment_rate": 3,
+      "comment_date": "2016-14-11T00:00:00"
+    },
+    {
+      "id": 2,
+      "which_prd_comment": 0,
+      "commented_by": "Celal",
+      "comment_text": "Lorem Ipsum Falan Filan nnice product.. good Choice..",
+      "comment_rate": 5,
+      "comment_date": "2016-18-11T00:00:00"
+    },
+    {
+      "id": 3,
+      "which_prd_comment": 1,
+      "commented_by": "Asım",
+      "comment_text": "Lorem Ipsum Falan Filan nnice product.. good Choice..",
+      "comment_rate": 4,
+      "comment_date": "2017-12-11T00:00:00"
+    },
+    {
+      "id": 4,
+      "which_prd_comment": 1,
+      "commented_by": "Kenan",
+      "comment_text": "Lorem Ipsum Falan Filan nnice product.. good Choice..",
+      "comment_rate": 5,
+      "comment_date": "2014-11-11T00:00:00"
+    },
+    {
+      "id": 5,
+      "which_prd_comment": 1,
+      "commented_by": "Ali",
+      "comment_text": "Lorem Ipsum Falan Filan nnice product.. good Choice..",
+      "comment_rate": 5,
+      "comment_date": "2018-11-11T00:00:00"
+    },
+    {
+      "id": 6,
+      "which_prd_comment": 2,
+      "commented_by": "Veli",
+      "comment_text": "Lorem Ipsum Falan Filan nnice product.. good Choice..",
+      "comment_rate": 2,
+      "comment_date": "2021-11-11T00:00:00"
+    },
+    {
+      "id": 7,
+      "which_prd_comment": 2,
+      "commented_by": "İsmet",
+      "comment_text": "Lorem Ipsum Falan Filan nnice product.. good Choice..",
+      "comment_rate": 5,
+      "comment_date": "2021-11-11T00:00:00"
+    },
+    {
+      "id": 8,
+      "which_prd_comment": 2,
+      "commented_by": "Çağlar",
+      "comment_text": "Lorem Ipsum Falan Filan nnice product.. good Choice..",
+      "comment_rate": 4,
+      "comment_date": "2020-11-11T00:00:00"
+    },
+    {
+      "id": 9,
+      "which_prd_comment": 2,
+      "commented_by": "Çağdaş",
+      "comment_text": "Lorem Ipsum Falan Filan nnice product.. good Choice..",
+      "comment_rate": 3,
+      "comment_date": "2019-11-11T00:00:00"
+    },
+    {
+      "id": 10,
+      "which_prd_comment": 3,
+      "commented_by": "İbrahim",
+      "comment_text": "Lorem Ipsum Falan Filan nnice product.. good Choice..",
+      "comment_rate": 1,
+      "comment_date": "2019-11-11T00:00:00"
+    },
+    {
+      "id": 11,
+      "which_prd_comment": 3,
+      "commented_by": "Ahmet",
+      "comment_text": "Lorem Ipsum Falan Filan nnice product.. good Choice..",
+      "comment_rate": 5,
+      "comment_date": "2018-11-11T00:00:00"
+    },
+    {
+      "id": 12,
+      "which_prd_comment": 3,
+      "commented_by": "Ahmet",
+      "comment_text": "Lorem Ipsum Falan Filan nnice product.. good Choice..",
+      "comment_rate": 3,
+      "comment_date": "2017-11-11T00:00:00"
+    },
+    {
+      "id": 13,
+      "which_prd_comment": 3,
+      "commented_by": "Osman",
+      "comment_text": "Lorem Ipsum Falan Filan nnice product.. good Choice..",
+      "comment_rate": 2,
+      "comment_date": "2018-11-11T00:00:00"
+    },
+    {
+      "id": 14,
+      "which_prd_comment": 4,
+      "commented_by": "Mert",
+      "comment_text": "Lorem Ipsum Falan Filan nnice product.. good Choice..",
+      "comment_rate": 1,
+      "comment_date": "2018-11-11T00:00:00"
+    },
+    {
+      "comment_text": "asdasdfdsfdsfa",
+      "comment_date": 1636043977430,
+      "comment_rate": 5,
+      "which_prd_comment": 0,
+      "id": 15
+    },
+    {
+      "commented_by": "user",
+      "comment_text": "asdasdasdasda",
+      "comment_date": 1636047176481,
+      "comment_rate": 5,
+      "which_prd_comment": 0,
+      "id": 16
+    },
+    {
+      "commented_by": "user",
+      "comment_text": "adadsadasdasd",
+      "comment_date": 1636051606983,
+      "comment_rate": 5,
+      "which_prd_comment": 1,
+      "id": 17
+    },
+    {
+      "commented_by": "user",
+      "comment_text": "dasdasdasd",
+      "comment_date": 1636051636826,
+      "comment_rate": 5,
+      "which_prd_comment": 1,
+      "id": 18
+    }
+  ],
+  "products": [
+    {
+      "id": 0,
+      "product_name": "product A",
+      "price": "20",
+      "score": 5,
+      "image_url": "1.jpg",
+      "product_arrival_date": "2021-11-11T00:00:00",
+      "comments": [
+        {
+          "id": 0,
+          "userId": 0,
+          "commented_by": "user",
+          "comment_text": "nice product! good choice!...",
+          "comment_rate": 5,
+          "comment_date": "2020-11-11T00:00:00"
+        },
+        {
+          "id": 1,
+          "userId": 1,
+          "commented_by": "user1",
+          "comment_text": "bad product! not good choice!...",
+          "comment_rate": 1,
+          "comment_date": "2019-11-11T00:00:00"
+        },
+        {
+          "id": 2,
+          "userId": 2,
+          "commented_by": "user2",
+          "comment_text": "good product! not bad choice!...",
+          "comment_rate": 3,
+          "comment_date": "2018-11-11T00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "product_name": "product B",
+      "price": "30",
+      "score": 4,
+      "image_url": "2.jpg",
+      "product_arrival_date": "2021-11-13T00:00:00",
+      "comments": [
+        {
+          "id": 3,
+          "userId": 0,
+          "commented_by": "user",
+          "comment_text": "nice product! good choice!...",
+          "comment_rate": 4,
+          "comment_date": "2017-11-11T00:00:00"
+        },
+        {
+          "id": 4,
+          "userId": 1,
+          "commented_by": "user1",
+          "comment_text": "bad product! not good choice!...",
+          "comment_rate": 2,
+          "comment_date": "2021-11-11T00:00:00"
+        },
+        {
+          "id": 5,
+          "userId": 2,
+          "commented_by": "user2",
+          "comment_text": "good product! not bad choice!...",
+          "comment_rate": 3,
+          "comment_date": "2020-11-11T00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "product_name": "product C",
+      "price": "10",
+      "score": 3,
+      "image_url": "3.jpg",
+      "product_arrival_date": "2021-11-22T00:00:00",
+      "comments": [
+        {
+          "id": 6,
+          "userId": 0,
+          "commented_by": "user",
+          "comment_text": "nice product! good choice!...",
+          "comment_rate": 5,
+          "comment_date": "2016-11-11T00:00:00"
+        },
+        {
+          "id": 7,
+          "userId": 1,
+          "commented_by": "user1",
+          "comment_text": "bad product! not good choice!...",
+          "comment_rate": 1,
+          "comment_date": "2015-11-11T00:00:00"
+        },
+        {
+          "id": 8,
+          "userId": 2,
+          "commented_by": "user2",
+          "comment_text": "good product! not bad choice!...",
+          "comment_rate": 3,
+          "comment_date": "2020-10-11T00:00:00"
+        },
+        {
+          "id": 9,
+          "userId": 0,
+          "commented_by": "user",
+          "comment_text": "nice product! good choice!...",
+          "comment_rate": 4,
+          "comment_date": "2021-11-10T00:00:00"
+        },
+        {
+          "id": 10,
+          "userId": 1,
+          "commented_by": "user1",
+          "comment_text": "bad product! not good choice!...",
+          "comment_rate": 2,
+          "comment_date": "2021-11-11T00:00:00"
+        },
+        {
+          "id": 11,
+          "userId": 2,
+          "commented_by": "user2",
+          "comment_text": "good product! not bad choice!...",
+          "comment_rate": 2,
+          "comment_date": "2021-11-11T00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "product_name": "product D",
+      "price": "5",
+      "score": 1,
+      "image_url": "4.jpg",
+      "product_arrival_date": "2021-11-31T00:00:00",
+      "comments": [
+        {
+          "id": 0,
+          "userId": 0,
+          "commented_by": "user",
+          "comment_text": "nice product! good choice!...",
+          "comment_rate": 4,
+          "comment_date": "2021-11-11T00:00:00"
+        },
+        {
+          "id": 1,
+          "userId": 1,
+          "commented_by": "user1",
+          "comment_text": "bad product! not good choice!...",
+          "comment_rate": 1,
+          "comment_date": "2021-11-11T00:00:00"
+        },
+        {
+          "id": 2,
+          "userId": 2,
+          "commented_by": "user2",
+          "comment_text": "good product! not bad choice!...",
+          "comment_rate": 3,
+          "comment_date": "2021-11-11T00:00:00"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "product_name": "product E",
+      "price": "8",
+      "score": 5,
+      "image_url": "5.jpg",
+      "product_arrival_date": "2021-11-21T00:00:00",
+      "comments": []
+    },
+    {
+      "id": 5,
+      "product_name": "product F",
+      "price": "9",
+      "score": 4,
+      "image_url": "6.jpg",
+      "product_arrival_date": "2021-12-11T00:00:00",
+      "comments": []
+    },
+    {
+      "id": 6,
+      "product_name": "product G",
+      "price": "7",
+      "score": 2,
+      "image_url": "7.jpg",
+      "product_arrival_date": "2021-11-14T00:00:00",
+      "comments": []
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
